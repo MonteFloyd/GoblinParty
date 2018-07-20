@@ -14,8 +14,14 @@ After done with generation and drawing the maze, **mazeGenerator** makes it comp
 ![DeployingMaze](https://raw.githubusercontent.com/MonteFloyd/GoblinParty/master/images/maze.gif)
 
 
+[Here is the code for it.](https://github.com/MonteFloyd/GoblinParty/blob/master/Assets/Scripts/mazeGenerator.cs)
+
+
 #### Ice Rink
 
 Ice level is quite simple, player "skates" on the ice and needs to avoid dropping in the sea after ice cracks. Ice cracks after first drop of stone and shatters after second. 
 
 ![Ice](https://github.com/MonteFloyd/GoblinParty/blob/master/images/ice.gif)
+
+
+[Here is the code for it.](https://github.com/MonteFloyd/GoblinParty/blob/master/Assets/Scripts/IceRinkManager.cs)
