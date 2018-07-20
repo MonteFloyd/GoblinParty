@@ -3,7 +3,7 @@
 ### Game
 ![MenuImage](https://raw.githubusercontent.com/MonteFloyd/GoblinParty/master/images/menu.png)
 
-Goblin Party is a multiplayer old W3 Custom map style collections of minigames. Group of players go through different minigames through coordination or skill.
+Goblin Party is a multiplayer old W3 Custom map style collections of minigames. Group of players go through different minigames and try to pass them with coordination or skill.
 
 #### Maze
 
